@@ -24,3 +24,8 @@ from random import shuffle
 print(names)
 shuffle(names)
 print(names)
+
+print(names.pop())
+print(names)
+print(names.remove(1))
+print(names)

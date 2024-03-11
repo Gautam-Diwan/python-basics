@@ -27,3 +27,8 @@ print(f"{pi}")
 
 number = 123
 print("{number}".format(number = number))
+
+print(MultilineString[2:10:2])
+print(name.upper())
+print(MultilineString.startswith("This"))
+print(MultilineString.split())
